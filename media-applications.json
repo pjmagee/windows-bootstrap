@@ -1,0 +1,47 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2022-05-03T18:28:39.275-00:00",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "Discord.Discord"
+                },
+                {
+                    "PackageIdentifier": "Spotify.Spotify"
+                },
+                {
+                    "PackageIdentifier": "VideoLAN.VLC"
+                },
+                {
+                    "PackageIdentifier": "nzbget.nzbget"
+                },
+                {
+                    "PackageIdentifier": "qBittorrent.qBittorrent"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://winget.azureedge.net/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        },
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "Disney+"
+                },
+                {
+                    "PackageIdentifier": "Netflix"
+                }                
+            ],
+            "SourceDetails": {
+                "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+                "Identifier": "StoreEdgeFD",
+                "Name": "msstore",
+                "Type": "Microsoft.Rest"
+            }
+        }
+    ]
+}

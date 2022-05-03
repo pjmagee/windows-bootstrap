@@ -1,0 +1,44 @@
+{
+	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate": "2022-05-03T18:28:39.275-00:00",
+	"Sources": [
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "7zip.7zip"
+				},
+				{
+					"PackageIdentifier": "Piriform.CCleaner"
+				},
+				{
+					"PackageIdentifier": "HexRays.IDA.Free"
+				},
+				{
+					"PackageIdentifier": "Piriform.Speccy"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier": "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier": "Nvidia.PhysX"
+				},
+				{
+					"PackageIdentifier": "Nvidia.Broadcast"
+				},
+				{
+					"PackageIdentifier": "Microsoft.OneDrive"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	]
+}
