@@ -44,15 +44,17 @@
 					"PackageIdentifier": "Microsoft.VisualStudioCode"
 				},
 				{
+					"PackageIdentifier": "Microsoft.VisualStudioCodeInsiders"
+				},
+				{
 					"PackageIdentifier": "GIMP.GIMP"
 				}
 			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://winget.azureedge.net/cache",
-				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name" : "winget",
-				"Type" : "Microsoft.PreIndexed.Package"
+			"SourceDetails": {
+				"Argument": "https://winget.azureedge.net/cache",
+				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name": "winget",
+				"Type": "Microsoft.PreIndexed.Package"
 			}
 		}
 	]

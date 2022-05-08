@@ -14,6 +14,9 @@
                     "PackageIdentifier": "VideoLAN.VLC"
                 },
                 {
+                    "PackageIdentifier": "Ytmdesktop.Ytmdesktop"
+                },
+                {
                     "PackageIdentifier": "nzbget.nzbget"
                 },
                 {
@@ -34,7 +37,7 @@
                 },
                 {
                     "PackageIdentifier": "Netflix"
-                }                
+                }
             ],
             "SourceDetails": {
                 "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
